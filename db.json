@@ -21,5 +21,28 @@
             "photo_url": "https://raw",
             "balanse": 400
         }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "label": "Hunting High and Low",
+            "price": "24100",
+            "photo_url": "https://raw",
+            "year": 1983
+        },
+        {
+            "id": 2,
+            "label": "Swing of Things",
+            "price": "1000",
+            "photo_url": "https://raw",
+            "year": 1987
+        },
+        {
+            "id": 3,
+            "label": "I’ve Been Losing You",
+            "price": "5100",
+            "photo_url": "https://raw",
+            "year": 1987
+        }
     ]
 }
