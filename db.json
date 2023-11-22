@@ -1,11 +1,21 @@
 {
     "users": [
         {
+
+            "id": 1,
+            "name": "Someone",
+            "sirname": ":O",
+            "balance": 1500
+        },
+
+        
+        {
             "id": 2,
             "name": "Valera",
             "sirname": "Valera2",
             "photo_url": "https://raw",
             "balanse": 1500
         }
+
     ]
 }
