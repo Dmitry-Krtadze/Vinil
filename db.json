@@ -13,5 +13,13 @@
             "photo_url": "https://raw",
             "balanse": 1500
         }
+        ,
+        {
+            "id": 3,
+            "name": "Valera3",
+            "sirname": "Valera4",
+            "photo_url": "https://raw",
+            "balanse": 400
+        }
     ]
 }
