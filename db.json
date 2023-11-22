@@ -8,7 +8,7 @@
         },
         {
             "id": 2,
-            "name": "V",
+            "name": "Robot",
             "sirname": "Vally",
             "photo_url": "https://raw",
             "balanse": 1500
@@ -17,7 +17,7 @@
         {
             "id": 3,
             "name": "Valera3",
-            "sirname": "Valera4",
+            "sirname": "ValeraGhoster",
             "photo_url": "https://raw",
             "balanse": 400
         }
@@ -43,6 +43,27 @@
             "price": "5100",
             "photo_url": "https://raw",
             "year": 1987
+        },
+        {
+            "id": 4,
+            "label": "nirvana",
+            "price": "100$",
+            "year": 2010,
+            "genre": "rok"
+        },
+        {
+            "id": 5,
+            "label": "BTS",
+            "price": "250$",
+            "year": 2021,
+            "genre": "k-pop"
+        },
+        {
+            "id": 6,
+            "label": "Valentin Strukalo",
+            "price": "100$",
+            "year": 2010,
+            "genre": "rok"
         }
     ]
 }
