@@ -5,13 +5,14 @@
             "id": 1,
             "name": "Someone",
             "sirname": ":O",
+            "photo_url":"https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
             "balance": 1500
         },
         {
             "id": 2,
             "name": "Robot",
             "sirname": "Vally",
-            "photo_url": "https://raw",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
             "balanse": 1500
         }
         ,
@@ -19,7 +20,7 @@
             "id": 3,
             "name": "Valera3",
             "sirname": "ValeraGhoster",
-            "photo_url": "https://raw",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
             "balanse": 400
         },
         {
@@ -47,45 +48,57 @@
     "products":[
         {
             "id": 1,
-            "label": "Hunting High and Low",
+            "name": "Hunting High and Low",
             "price": "24100",
             "photo_url": "https://raw ",
-            "year": 1983
+            "year": 1983,
+            "genre": "rok",
+            "description": "music"
         },
         {
             "id": 2,
-            "label": "Swing of Things",
+            "name": "Swing of Things",
             "price": "1000",
             "photo_url": "https://raw",
-            "year": 1987
+            "year": 1987,
+            "genre": "rok",
+            "description": "music"
         },
         {
             "id": 3,
-            "label": "I’ve Been Losing You",
+            "name": "I’ve Been Losing You",
             "price": "5100",
             "photo_url": "https://raw",
-            "year": 1987
+            "year": 1987,
+            "genre": "rok",
+            "description": "music"
         },
         {
             "id": 4,
-            "label": "nirvana",
+            "name": "nirvana",
             "price": "100$",
+            "photo_url": "https://raw",
             "year": 2010,
-            "genre": "rok"
+            "genre": "rok",
+            "description": "music"
         },
         {
             "id": 5,
-            "label": "BTS",
+            "name": "BTS",
             "price": "250$",
+            "photo_url": "https://raw",
             "year": 2021,
-            "genre": "k-pop"
+            "genre": "k-pop",
+            "description": "music"
         },
         {
             "id": 6,
-            "label": "Valentin Strukalo",
+            "name": "Valentin Strukalo",
             "price": "100$",
+            "photo_url": "https://raw",
             "year": 2010,
-            "genre": "rok"
+            "genre": "rok",
+            "description": "music"
         },
         {
             "id": 7,
